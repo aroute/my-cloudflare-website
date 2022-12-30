@@ -1,11 +1,7 @@
 ---
 slug: greetings
 title: Greetings!
-authors:
-  - name: Arif
-    title: Blog owner
-    url: https://github.com/aroute
-    image_url: https://github.com/aroute.png
+authors: [aroute]
 tags: [greetings]
 ---
 

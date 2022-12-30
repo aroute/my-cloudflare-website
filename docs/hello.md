@@ -1,6 +1,9 @@
 ---
-sidebar_label: 'Hi!'
-sidebar_position: 3
+slug: hello
+sidebar_position: 1
+title: 'Hi!'
+authors: [aroute]
+tags: [greetings]
 ---
 
 # Hello
